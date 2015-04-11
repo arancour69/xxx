@@ -1,0 +1,45 @@
+#EXTINF:0,REDLIGHT HD
+rtmp://$OPT:rtmp-raw=rtmp://195.154.176.66:8082/private/private/ playpath=private swfUrl=http://livestreamcast.org/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://ero-tv.org/redlight_online/
+
+#EXTINF:0,***ysat-tv
+rtmp://$OPT:rtmp-raw=rtmp://81.89.48.215/xyz999wkz/ playpath=***ysat.stream swfUrl=http://ero-tv.org/jwplayer/jwplayer.flash.swf live=1pageUrl=http://ero-tv.org/***ysat-tv_online/
+
+#EXTINF:0,PENTHOUSE HD
+rtmp://$OPT:rtmp-raw=rtmp://lm07.everyon.tv/ptv7/ playpath=pld10927 swfUrl=http://ero-tv.org/uppod/player5.swf live=1 pageUrl=http://ero-tv.org/penthouse_online/
+
+#EXTINF:0,BUTGOO
+rtmp://$OPT:rtmp-raw=rtmp://lm07.everyon.tv/ptv7/ playpath=pld772 swfUrl=http://ero-tv.org/uppod/player5.swf live=1 pageUrl=http://ero-tv.org/platinum_tv_online/
+
+#EXTINF:-1 pboy tv
+rtmp://$OPT:rtmp-raw=rtmp://195.154.176.66:8082/pboytv/pboytv/ playpath=pboytv swfUrl=http://livestreamcast.org/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://livestreamcast.org/embeds.php?c=pboytv&vw=650&vh=470
+
+#EXTINF:-1,:HUSTLER TV 
+rtmp://$OPT:rtmp-raw=rtmp://195.154.176.66:8082/hustlertv/hustlertv/ playpath=hustlertv swfUrl=http://livestreamcast.org/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://livestreamcast.org/embed.php?c=hustlerr&vh=410&vw=630
+On of
+russian night
+http://iptv.multi-net.ru:80/udp/239.255.4.2:1234
+
+french Lover tv
+http://iptv.multi-net.ru:80/udp/239.255.4.4:1234
+
+temptaion
+http://iptv.multi-net.ru:80/udp/239.255.4.5:1234
+
+brazzers tv
+http://iptv.multi-net.ru:80/udp/239.255.4.7:1234
+
+
+1
+rtsp://210.200.79.28:554/live/tc218081
+2
+rtsp://210.200.79.28:554/live/tc218082
+3
+rtsp://210.200.79.28:554/live/tc218083
+4
+rtsp://210.200.79.28:554/live/aracity_m_new
+5
+rtsp://210.200.79.28:554/live/aracity02
+6
+rtsp://210.200.79.28:554/live/aracity01
+7
+rtsp://210.200.79.28:554/live/aracity03
