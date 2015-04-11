@@ -1,3 +1,15 @@
 
 ‪#‎EXTINF‬:-1,XXX
 http://93.155.252.19:40665/udp/239.1.1.252:4000
+#EXTINF:-1,dorcelBunga
+http://84.22.33.3:8066
+#EXTINF:-1,dorcelXxx
+http://Smart:Adana01@188.165.239.200:7024
+#EXTINF:-1,dorcelxdx
+http://188.165.220.116:8081/live/xxx/playlist.m3u8
+#EXTINF:-1,dorcelplay boy
+http://83.139.104.112/Content/HLS/Live/Channel(playboy_TV)/Stream(03)/index.m3u8
+#EXTINF:-1,dorcelbrazzers
+http://83.139.104.112/Content/HLS/Live/Channel(BRAZZERS_TV)/Stream(03)/index.m3u8
+#EXTINF:-1,dorceldorcel
+http://83.139.104.112/Content/HLS/Live/Channel(DORCEL_TV)/Stream(03)/index.m3u8
